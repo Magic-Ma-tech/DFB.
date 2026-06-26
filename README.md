@@ -1,5 +1,7 @@
-# DFB.
-This repository only exists because the published article hyperlink accidentally included the trailing period.
+# Redirect to the official DFB repository
 
-The correct repository is:
-https://github.com/Magic-Ma-tech/DFB
+The published article hyperlink accidentally included the trailing period.
+
+Please visit the official repository:
+
+<https://github.com/Magic-Ma-tech/DFB>
